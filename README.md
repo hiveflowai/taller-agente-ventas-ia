@@ -59,6 +59,10 @@ Te entrega un formulario público: el cliente pide su cotización y recibe el **
 
 Usa una de las [listas de precios de ejemplo](ejemplos/listas-de-precios.md) si quieres probar rápido.
 
+## ¿Crédito, seguros, KYC, logística o salud?
+
+El mismo patrón sirve para precalificar créditos, armar expedientes KYC, cobrar, renovar, cotizar fletes o agendar citas. Ve [casos por industria](ejemplos/casos-por-industria.md).
+
 ## Tarea: cobranza
 
 En Genius escribe **«Automatiza mi cobranza»**: recordatorios amables antes y después del vencimiento, sin que nadie se tenga que acordar.
